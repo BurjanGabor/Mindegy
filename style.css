@@ -1,0 +1,64 @@
+body{
+	background-image: url(hatter.jpg);
+}
+
+.divfoszoveg
+{
+	width: 80%;
+	margin-left:10%;
+	border:6px;
+	color: black;
+	border-color: black;
+	border-style: solid;
+	border-radius: 10px;
+	background-color: #adad85;
+	
+	
+}
+
+.td{
+	width:20%;
+	background-color:green;
+	text-align:center;
+	border:3px;
+	border-color:#001a00;
+		border-style: solid; 
+		border-radius: 6px;
+}
+table{
+	align:center;
+}
+p{
+	text-align:left;
+	font-size:20px;
+	color:white;
+}
+li{
+	font-size:20px;
+}
+
+.h1_{
+	text-align: center;
+	color: white;
+	font-family: "Times new Roman",cursive;
+}
+.td2_{
+	text-align:left;
+	
+	color: white;
+	font-family: "Times new Roman",cursive;
+	
+	background-color:green;
+	border:3px;
+	border-color:#001a00;
+		border-style: solid; 
+		border-radius: 6px;
+}
+
+.aktiv{
+	color:  light-blue; 
+	font-family:"Brush Script MT Lucida Handwriting",cursive;
+}
+.nemaktiv{
+	color: white;
+font-family: "Times new Roman",cursive;}
